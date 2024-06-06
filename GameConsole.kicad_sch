@@ -4,6 +4,12 @@
 	(generator_version "8.0")
 	(uuid "f390af48-df43-4320-b418-9f5882e857f8")
 	(paper "A4")
+	(title_block
+		(title "Game Console")
+		(date "2024-06-06")
+		(rev "Rev. 1")
+		(company "JensFZ")
+	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x06_Socket"
 			(pin_names
@@ -3945,7 +3951,7 @@
 			(uuid "10dc9703-699a-4d6e-81fa-a8ccae419f6c")
 		)
 		(instances
-			(project "BBC"
+			(project "GameConsole"
 				(path "/f390af48-df43-4320-b418-9f5882e857f8"
 					(reference "#PWR027")
 					(unit 1)
@@ -4012,7 +4018,7 @@
 			(uuid "798f58a3-d668-41f3-81b2-9b0b30ddfd97")
 		)
 		(instances
-			(project "BBC"
+			(project "GameConsole"
 				(path "/f390af48-df43-4320-b418-9f5882e857f8"
 					(reference "#PWR05")
 					(unit 1)
@@ -4082,7 +4088,7 @@
 			(uuid "17a71f5d-730b-4eb8-8fd8-4257ea3501d7")
 		)
 		(instances
-			(project "BBC"
+			(project "GameConsole"
 				(path "/f390af48-df43-4320-b418-9f5882e857f8"
 					(reference "J4")
 					(unit 1)
@@ -4149,7 +4155,7 @@
 			(uuid "4e19f861-a40d-4e06-9bec-2d0072a75ca0")
 		)
 		(instances
-			(project "BBC"
+			(project "GameConsole"
 				(path "/f390af48-df43-4320-b418-9f5882e857f8"
 					(reference "#PWR025")
 					(unit 1)
@@ -4215,7 +4221,7 @@
 			(uuid "1592feb5-5d44-4812-8a4d-0eb40d90e7f4")
 		)
 		(instances
-			(project "BBC"
+			(project "GameConsole"
 				(path "/f390af48-df43-4320-b418-9f5882e857f8"
 					(reference "#PWR02")
 					(unit 1)
@@ -4282,7 +4288,7 @@
 			(uuid "fadf0718-3985-4021-ba65-55d885e5dcf1")
 		)
 		(instances
-			(project "BBC"
+			(project "GameConsole"
 				(path "/f390af48-df43-4320-b418-9f5882e857f8"
 					(reference "#PWR06")
 					(unit 1)
@@ -4364,7 +4370,7 @@
 			(uuid "00255ef7-9956-47ba-b428-fbec9f0ab77d")
 		)
 		(instances
-			(project "BBC"
+			(project "GameConsole"
 				(path "/f390af48-df43-4320-b418-9f5882e857f8"
 					(reference "J2")
 					(unit 1)
@@ -4431,7 +4437,7 @@
 			(uuid "3bede532-b5db-44b7-9d81-96ce5681f2a0")
 		)
 		(instances
-			(project "BBC"
+			(project "GameConsole"
 				(path "/f390af48-df43-4320-b418-9f5882e857f8"
 					(reference "#PWR017")
 					(unit 1)
@@ -4499,7 +4505,7 @@
 			(uuid "b070ded5-c027-449f-9790-56b387f6d2f7")
 		)
 		(instances
-			(project "BBC"
+			(project "GameConsole"
 				(path "/f390af48-df43-4320-b418-9f5882e857f8"
 					(reference "SW2")
 					(unit 1)
@@ -4566,7 +4572,7 @@
 			(uuid "539b87e7-642a-4248-abfa-c9ec1f77b0b8")
 		)
 		(instances
-			(project "BBC"
+			(project "GameConsole"
 				(path "/f390af48-df43-4320-b418-9f5882e857f8"
 					(reference "#PWR07")
 					(unit 1)
@@ -4633,7 +4639,7 @@
 			(uuid "83cec772-815a-4ad6-a526-09b0ed3f530f")
 		)
 		(instances
-			(project "BBC"
+			(project "GameConsole"
 				(path "/f390af48-df43-4320-b418-9f5882e857f8"
 					(reference "#PWR022")
 					(unit 1)
@@ -4703,7 +4709,7 @@
 			(uuid "c0ea3a63-b1a8-4e78-b4c9-8b369498cbb5")
 		)
 		(instances
-			(project "BBC"
+			(project "GameConsole"
 				(path "/f390af48-df43-4320-b418-9f5882e857f8"
 					(reference "R1")
 					(unit 1)
@@ -4770,7 +4776,7 @@
 			(uuid "65286d36-8a1a-4a72-be6b-318c65e02fa9")
 		)
 		(instances
-			(project "BBC"
+			(project "GameConsole"
 				(path "/f390af48-df43-4320-b418-9f5882e857f8"
 					(reference "#PWR010")
 					(unit 1)
@@ -4837,7 +4843,7 @@
 			(uuid "3faff48a-1f73-4f85-8562-80cee6b3c9de")
 		)
 		(instances
-			(project "BBC"
+			(project "GameConsole"
 				(path "/f390af48-df43-4320-b418-9f5882e857f8"
 					(reference "#PWR014")
 					(unit 1)
@@ -4904,7 +4910,7 @@
 			(uuid "b5643c49-383d-4dd2-9a39-a2fe3f584d14")
 		)
 		(instances
-			(project "BBC"
+			(project "GameConsole"
 				(path "/f390af48-df43-4320-b418-9f5882e857f8"
 					(reference "#PWR04")
 					(unit 1)
@@ -4986,7 +4992,7 @@
 			(uuid "7362e109-0d8b-40e5-b689-5b6db7318478")
 		)
 		(instances
-			(project "BBC"
+			(project "GameConsole"
 				(path "/f390af48-df43-4320-b418-9f5882e857f8"
 					(reference "J3")
 					(unit 1)
@@ -5053,7 +5059,7 @@
 			(uuid "7d82f0a1-c058-4a45-a6db-9b619881c21a")
 		)
 		(instances
-			(project "BBC"
+			(project "GameConsole"
 				(path "/f390af48-df43-4320-b418-9f5882e857f8"
 					(reference "#PWR020")
 					(unit 1)
@@ -5120,7 +5126,7 @@
 			(uuid "27cb5a73-99cf-4db8-8e4d-740ec890c4b6")
 		)
 		(instances
-			(project "BBC"
+			(project "GameConsole"
 				(path "/f390af48-df43-4320-b418-9f5882e857f8"
 					(reference "#PWR019")
 					(unit 1)
@@ -5187,7 +5193,7 @@
 			(uuid "c03b09ea-2eab-49b2-b740-6345f9f44e66")
 		)
 		(instances
-			(project "BBC"
+			(project "GameConsole"
 				(path "/f390af48-df43-4320-b418-9f5882e857f8"
 					(reference "#PWR021")
 					(unit 1)
@@ -5254,7 +5260,7 @@
 			(uuid "6461d70b-fc87-4bcd-bde6-d01152045c76")
 		)
 		(instances
-			(project "BBC"
+			(project "GameConsole"
 				(path "/f390af48-df43-4320-b418-9f5882e857f8"
 					(reference "#PWR012")
 					(unit 1)
@@ -5324,7 +5330,7 @@
 			(uuid "c4f818fb-1eed-4ff4-81e6-62d9e8f91028")
 		)
 		(instances
-			(project "BBC"
+			(project "GameConsole"
 				(path "/f390af48-df43-4320-b418-9f5882e857f8"
 					(reference "R4")
 					(unit 1)
@@ -5391,7 +5397,7 @@
 			(uuid "7f85c051-1068-4a34-a2e8-895ddd933bac")
 		)
 		(instances
-			(project "BBC"
+			(project "GameConsole"
 				(path "/f390af48-df43-4320-b418-9f5882e857f8"
 					(reference "#PWR015")
 					(unit 1)
@@ -5458,7 +5464,7 @@
 			(uuid "1481c089-8812-4f2d-950e-62f51335dd05")
 		)
 		(instances
-			(project "BBC"
+			(project "GameConsole"
 				(path "/f390af48-df43-4320-b418-9f5882e857f8"
 					(reference "#PWR013")
 					(unit 1)
@@ -5526,7 +5532,7 @@
 			(uuid "17f6aa0b-4afd-4a2e-bb57-361a5fe583fc")
 		)
 		(instances
-			(project "BBC"
+			(project "GameConsole"
 				(path "/f390af48-df43-4320-b418-9f5882e857f8"
 					(reference "SW6")
 					(unit 1)
@@ -5594,7 +5600,7 @@
 			(uuid "1246246c-c0b7-4fc0-beb4-0ca7da7bec3b")
 		)
 		(instances
-			(project "BBC"
+			(project "GameConsole"
 				(path "/f390af48-df43-4320-b418-9f5882e857f8"
 					(reference "SW3")
 					(unit 1)
@@ -5664,7 +5670,7 @@
 			(uuid "54cba67b-a4f1-456e-9b0d-8960672d3979")
 		)
 		(instances
-			(project "BBC"
+			(project "GameConsole"
 				(path "/f390af48-df43-4320-b418-9f5882e857f8"
 					(reference "R2")
 					(unit 1)
@@ -5731,7 +5737,7 @@
 			(uuid "7483bfd7-942a-4be8-8270-ce53e77275f6")
 		)
 		(instances
-			(project "BBC"
+			(project "GameConsole"
 				(path "/f390af48-df43-4320-b418-9f5882e857f8"
 					(reference "#PWR01")
 					(unit 1)
@@ -5801,7 +5807,7 @@
 			(uuid "b8f11aa7-0cc7-40af-bdd7-1cae110646b4")
 		)
 		(instances
-			(project "BBC"
+			(project "GameConsole"
 				(path "/f390af48-df43-4320-b418-9f5882e857f8"
 					(reference "R5")
 					(unit 1)
@@ -5869,7 +5875,7 @@
 			(uuid "05347152-1a33-43b5-9194-4e1ea00445c4")
 		)
 		(instances
-			(project "BBC"
+			(project "GameConsole"
 				(path "/f390af48-df43-4320-b418-9f5882e857f8"
 					(reference "SW1")
 					(unit 1)
@@ -5936,7 +5942,7 @@
 			(uuid "e38d6174-7af2-4c54-8609-d3f2dbb4bb36")
 		)
 		(instances
-			(project "BBC"
+			(project "GameConsole"
 				(path "/f390af48-df43-4320-b418-9f5882e857f8"
 					(reference "#PWR034")
 					(unit 1)
@@ -6003,7 +6009,7 @@
 			(uuid "0cbc3e35-ff06-4e4c-87c2-9f3f0abcd6d7")
 		)
 		(instances
-			(project "BBC"
+			(project "GameConsole"
 				(path "/f390af48-df43-4320-b418-9f5882e857f8"
 					(reference "#PWR026")
 					(unit 1)
@@ -6070,7 +6076,7 @@
 			(uuid "55f6982a-23a2-43ef-98de-a7dcaf0caf19")
 		)
 		(instances
-			(project "BBC"
+			(project "GameConsole"
 				(path "/f390af48-df43-4320-b418-9f5882e857f8"
 					(reference "#PWR08")
 					(unit 1)
@@ -6260,7 +6266,7 @@
 			(uuid "310525c7-66cf-4035-bfaa-7eccd8bb78df")
 		)
 		(instances
-			(project "BBC"
+			(project "GameConsole"
 				(path "/f390af48-df43-4320-b418-9f5882e857f8"
 					(reference "U4")
 					(unit 1)
@@ -6348,7 +6354,7 @@
 			(uuid "fe493e07-9530-423b-a75a-0754b77dc5e6")
 		)
 		(instances
-			(project "BBC"
+			(project "GameConsole"
 				(path "/f390af48-df43-4320-b418-9f5882e857f8"
 					(reference "D1")
 					(unit 1)
@@ -6414,7 +6420,7 @@
 			(uuid "1fd2735b-feb4-4def-89f3-c15d388c325c")
 		)
 		(instances
-			(project "BBC"
+			(project "GameConsole"
 				(path "/f390af48-df43-4320-b418-9f5882e857f8"
 					(reference "#PWR03")
 					(unit 1)
@@ -6480,7 +6486,7 @@
 			(uuid "53c30e95-68b4-45c2-a170-37239bc4186d")
 		)
 		(instances
-			(project "BBC"
+			(project "GameConsole"
 				(path "/f390af48-df43-4320-b418-9f5882e857f8"
 					(reference "#PWR033")
 					(unit 1)
@@ -6548,7 +6554,7 @@
 			(uuid "a3209266-89b6-417f-9e65-f5b5f3c0b272")
 		)
 		(instances
-			(project "BBC"
+			(project "GameConsole"
 				(path "/f390af48-df43-4320-b418-9f5882e857f8"
 					(reference "SW7")
 					(unit 1)
@@ -6615,7 +6621,7 @@
 			(uuid "1235bb8a-2317-4ab2-9727-b1538eb511a6")
 		)
 		(instances
-			(project "BBC"
+			(project "GameConsole"
 				(path "/f390af48-df43-4320-b418-9f5882e857f8"
 					(reference "#PWR016")
 					(unit 1)
@@ -6682,7 +6688,7 @@
 			(uuid "c11a10a6-83f7-451c-89fe-5f3616521451")
 		)
 		(instances
-			(project "BBC"
+			(project "GameConsole"
 				(path "/f390af48-df43-4320-b418-9f5882e857f8"
 					(reference "#PWR023")
 					(unit 1)
@@ -6749,7 +6755,7 @@
 			(uuid "c86d65d4-b2ba-48b1-be12-c1710c93f1a4")
 		)
 		(instances
-			(project "BBC"
+			(project "GameConsole"
 				(path "/f390af48-df43-4320-b418-9f5882e857f8"
 					(reference "#PWR011")
 					(unit 1)
@@ -6819,7 +6825,7 @@
 			(uuid "6477bbaf-bc12-47be-8098-2f2bac0f2bc6")
 		)
 		(instances
-			(project "BBC"
+			(project "GameConsole"
 				(path "/f390af48-df43-4320-b418-9f5882e857f8"
 					(reference "R8")
 					(unit 1)
@@ -6887,7 +6893,7 @@
 			(uuid "561f3a42-9768-409c-8318-f0720d1ddd3f")
 		)
 		(instances
-			(project "BBC"
+			(project "GameConsole"
 				(path "/f390af48-df43-4320-b418-9f5882e857f8"
 					(reference "SW4")
 					(unit 1)
@@ -6954,7 +6960,7 @@
 			(uuid "ee564696-f9be-4ffc-b3f9-19919b18b917")
 		)
 		(instances
-			(project "BBC"
+			(project "GameConsole"
 				(path "/f390af48-df43-4320-b418-9f5882e857f8"
 					(reference "#PWR018")
 					(unit 1)
@@ -7021,7 +7027,7 @@
 			(uuid "ccef06b6-fa45-423e-9f3d-0f55abe995f8")
 		)
 		(instances
-			(project "BBC"
+			(project "GameConsole"
 				(path "/f390af48-df43-4320-b418-9f5882e857f8"
 					(reference "#PWR024")
 					(unit 1)
@@ -7091,7 +7097,7 @@
 			(uuid "ee6c8068-c364-4426-803e-ca151d96cb59")
 		)
 		(instances
-			(project "BBC"
+			(project "GameConsole"
 				(path "/f390af48-df43-4320-b418-9f5882e857f8"
 					(reference "R7")
 					(unit 1)
@@ -7159,7 +7165,7 @@
 			(uuid "0465f4e8-ed21-4888-a0e6-590a3206a288")
 		)
 		(instances
-			(project "BBC"
+			(project "GameConsole"
 				(path "/f390af48-df43-4320-b418-9f5882e857f8"
 					(reference "SW8")
 					(unit 1)
@@ -7229,7 +7235,7 @@
 			(uuid "983307ef-0983-4aca-bb12-4f143bb0391a")
 		)
 		(instances
-			(project "BBC"
+			(project "GameConsole"
 				(path "/f390af48-df43-4320-b418-9f5882e857f8"
 					(reference "R6")
 					(unit 1)
@@ -7317,7 +7323,7 @@
 			(uuid "12fed7c7-f3b1-431e-bbcc-6e1803d86b4b")
 		)
 		(instances
-			(project "BBC"
+			(project "GameConsole"
 				(path "/f390af48-df43-4320-b418-9f5882e857f8"
 					(reference "J1")
 					(unit 1)
@@ -7384,7 +7390,7 @@
 			(uuid "538865a9-dfc6-4420-8e77-0ec194b80d12")
 		)
 		(instances
-			(project "BBC"
+			(project "GameConsole"
 				(path "/f390af48-df43-4320-b418-9f5882e857f8"
 					(reference "#PWR09")
 					(unit 1)
@@ -7452,7 +7458,7 @@
 			(uuid "66b2a387-ddfb-454a-9960-3e9148258397")
 		)
 		(instances
-			(project "BBC"
+			(project "GameConsole"
 				(path "/f390af48-df43-4320-b418-9f5882e857f8"
 					(reference "SW5")
 					(unit 1)
@@ -7522,7 +7528,7 @@
 			(uuid "cd6cea75-b62e-4355-bf78-af1533ff2c19")
 		)
 		(instances
-			(project "BBC"
+			(project "GameConsole"
 				(path "/f390af48-df43-4320-b418-9f5882e857f8"
 					(reference "R3")
 					(unit 1)

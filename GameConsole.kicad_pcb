@@ -2220,7 +2220,7 @@
 		(descr "Diode, A-405 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf")
 		(tags "Diode A-405 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
 		(property "Reference" "D1"
-			(at 5.08 -2.47 270)
+			(at 5.08 -2.47 -90)
 			(layer "F.SilkS")
 			(uuid "a4dd29c0-5949-49e8-b53d-45d86e8347f6")
 			(effects
@@ -2231,7 +2231,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 5.08 2.47 270)
+			(at 5.08 2.47 -90)
 			(layer "F.Fab")
 			(uuid "374d1c23-184b-43fa-a580-6f0f9b494aad")
 			(effects
@@ -2529,7 +2529,7 @@
 			(uuid "9a0c1284-78a6-46c0-9692-a444041f8194")
 		)
 		(fp_text user "K"
-			(at 0 -1.9 270)
+			(at 0 -1.9 -90)
 			(layer "F.SilkS")
 			(uuid "25a73d2e-0156-4749-bab9-75609a8f1a05")
 			(effects
@@ -2540,7 +2540,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 -1.9 270)
+			(at 0 -1.9 -90)
 			(layer "F.Fab")
 			(uuid "1bcb34ad-432d-4410-b1f3-80a669901b68")
 			(effects
@@ -2551,7 +2551,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 5.47 0 270)
+			(at 5.47 0 -90)
 			(layer "F.Fab")
 			(uuid "cd2a3341-d5fd-43d6-b001-648cd8f5b5cd")
 			(effects
@@ -3146,7 +3146,7 @@
 		(descr "Soldered wire connection, for 2 times 0.127 mm² wires, basic insulation, conductor diameter 0.48mm, outer diameter 1mm, size source Multi-Contact FLEXI-E/HK 0.127 (https://ec.staubli.com/AcroFiles/Catalogues/TM_Cab-Main-11014119_(en)_hi.pdf), bend radius 3 times outer diameter, generated with kicad-footprint-generator")
 		(tags "connector wire 0.127sqmm")
 		(property "Reference" "J4"
-			(at 1.85 -2.05 270)
+			(at 1.85 -2.05 -90)
 			(layer "F.SilkS")
 			(uuid "319fdb3d-b9f7-4591-8ee6-b700c10ae9b4")
 			(effects
@@ -3157,7 +3157,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02"
-			(at 1.85 2.05 270)
+			(at 1.85 2.05 -90)
 			(layer "F.Fab")
 			(uuid "8e5d32ba-bed1-4894-a227-58ba0bd6e3af")
 			(effects
@@ -3311,7 +3311,7 @@
 			(uuid "88de3b18-999d-4b49-94ea-407d32dda7c0")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.85 0 360)
+			(at 1.85 0 0)
 			(layer "F.Fab")
 			(uuid "1df2e408-67e4-4dd7-a209-e6297d4bec1d")
 			(effects
@@ -6553,7 +6553,7 @@
 		(descr "ESP32-S2 general-purpose development board")
 		(tags "ESP32-S2")
 		(property "Reference" "U4"
-			(at 12.7 2.1 270)
+			(at 12.7 2.1 -90)
 			(layer "B.SilkS")
 			(uuid "8c95f166-67a4-4462-935c-074e8a5a2c5d")
 			(effects
@@ -6565,7 +6565,7 @@
 			)
 		)
 		(property "Value" "ESP32-S2-DevKitM"
-			(at 11.42632 -34.13 360)
+			(at 11.42632 -34.13 0)
 			(layer "B.SilkS")
 			(uuid "c4d27449-1c2b-47df-9209-bb0ee1700725")
 			(effects
@@ -7276,7 +7276,7 @@
 			)
 		)
 		(fp_text user "REF**"
-			(at -0.00368 0.00272 270)
+			(at -0.00368 0.00272 -90)
 			(layer "B.Fab")
 			(uuid "5cf899fb-ae4a-4c73-9408-94843f7d3927")
 			(effects
