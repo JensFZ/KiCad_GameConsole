@@ -198,6 +198,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -210,6 +211,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -222,13 +224,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "R_*")
 		(path "/f60d8cc7-3d31-4b4c-9c82-118774fba07f")
 		(sheetname "Stammblatt")
-		(sheetfile "BBC.kicad_sch")
+		(sheetfile "GameConsole.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.04 0)
@@ -470,6 +473,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -482,6 +486,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -494,12 +499,13 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(path "/20aba6f2-8862-45ec-b58a-a8db79e25a96")
 		(sheetname "Stammblatt")
-		(sheetfile "BBC.kicad_sch")
+		(sheetfile "GameConsole.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -0.25 1.5)
@@ -826,6 +832,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -838,6 +845,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -850,12 +858,13 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(path "/6e5b350e-3cdb-4fc9-9c17-ee2a69fd1a4a")
 		(sheetname "Stammblatt")
-		(sheetfile "BBC.kicad_sch")
+		(sheetfile "GameConsole.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -0.25 1.5)
@@ -1182,6 +1191,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1194,6 +1204,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1206,12 +1217,13 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(path "/d0448cd2-cb06-40ad-8827-96d73f83b731")
 		(sheetname "Stammblatt")
-		(sheetfile "BBC.kicad_sch")
+		(sheetfile "GameConsole.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -0.25 1.5)
@@ -1538,6 +1550,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1550,6 +1563,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1562,12 +1576,13 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(path "/9d70a3b7-72d4-4d29-aab8-29bc0772b85c")
 		(sheetname "Stammblatt")
-		(sheetfile "BBC.kicad_sch")
+		(sheetfile "GameConsole.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -0.25 1.5)
@@ -1894,6 +1909,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1906,6 +1922,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1918,12 +1935,13 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(path "/78c92dc5-1fd6-467c-b994-90e93dcd8dd1")
 		(sheetname "Stammblatt")
-		(sheetfile "BBC.kicad_sch")
+		(sheetfile "GameConsole.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -0.25 1.5)
@@ -2250,6 +2268,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2262,6 +2281,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2274,6 +2294,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2306,7 +2327,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a5943a16-5a27-4f71-b482-69deb8348fdc")
 		(sheetname "Stammblatt")
-		(sheetfile "BBC.kicad_sch")
+		(sheetfile "GameConsole.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 7.8 -1.47)
@@ -2632,6 +2653,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2644,6 +2666,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2656,13 +2679,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "R_*")
 		(path "/7ae3ae34-cb75-4071-a245-ce2fd1c062ed")
 		(sheetname "Stammblatt")
-		(sheetfile "BBC.kicad_sch")
+		(sheetfile "GameConsole.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.04 0)
@@ -2904,6 +2928,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2916,6 +2941,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2928,13 +2954,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "R_*")
 		(path "/e70eeb6f-29bb-4a19-800f-0d2cc6e270d6")
 		(sheetname "Stammblatt")
-		(sheetfile "BBC.kicad_sch")
+		(sheetfile "GameConsole.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.04 0)
@@ -3176,6 +3203,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -3188,6 +3216,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -3200,13 +3229,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/0b6f6871-c252-4d9a-8025-70911f2d2072")
 		(sheetname "Stammblatt")
-		(sheetfile "BBC.kicad_sch")
+		(sheetfile "GameConsole.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_line
 			(start 5.05 -1.35)
@@ -3393,6 +3423,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -3405,6 +3436,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -3417,13 +3449,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "R_*")
 		(path "/d95b9368-c381-4b42-b6ec-45ea906c1ab7")
 		(sheetname "Stammblatt")
-		(sheetfile "BBC.kicad_sch")
+		(sheetfile "GameConsole.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.04 0)
@@ -3665,6 +3698,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -3677,6 +3711,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -3689,12 +3724,13 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(path "/edc39bb5-fad9-40a6-b955-01d82e84b94f")
 		(sheetname "Stammblatt")
-		(sheetfile "BBC.kicad_sch")
+		(sheetfile "GameConsole.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -0.25 1.5)
@@ -4023,6 +4059,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4035,6 +4072,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4047,6 +4085,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4129,6 +4168,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4141,6 +4181,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4153,13 +4194,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "R_*")
 		(path "/397e5bd5-40ab-41d1-a490-5b94668c1b9b")
 		(sheetname "Stammblatt")
-		(sheetfile "BBC.kicad_sch")
+		(sheetfile "GameConsole.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.04 0)
@@ -4364,16 +4406,16 @@
 			)
 		)
 	)
-	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical"
+	(footprint "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "aade5af0-46fc-4736-b320-29abcf8cf2ea")
 		(at 58 38.92)
-		(descr "Through hole straight pin header, 1x08, 2.54mm pitch, single row")
-		(tags "Through hole pin header THT 1x08 2.54mm single row")
+		(descr "Through hole straight socket strip, 1x08, 2.54mm pitch, single row (from Kicad 4.0.7), script generated")
+		(tags "Through hole socket strip THT 1x08 2.54mm single row")
 		(property "Reference" "J1"
-			(at 0 -2.33 0)
+			(at 0 -2.77 0)
 			(layer "F.SilkS")
-			(uuid "5b99eb47-7a8e-4fe8-ae97-5695bae8fd9e")
+			(uuid "695d4c3f-9ca2-4697-a6f6-ec31966de9f1")
 			(effects
 				(font
 					(size 1 1)
@@ -4382,9 +4424,9 @@
 			)
 		)
 		(property "Value" "Display"
-			(at 0 20.11 0)
+			(at 0 20.55 0)
 			(layer "F.Fab")
-			(uuid "0615bfcf-85ed-4521-90ed-93a6671dd2d9")
+			(uuid "c57e1369-b922-4740-bfb0-d954704d2f1d")
 			(effects
 				(font
 					(size 1 1)
@@ -4392,15 +4434,16 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical"
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6ebb7bab-0300-44bd-b5dd-3c4c97386db1")
+			(uuid "2b4f290f-faa8-4c5d-8b30-d75e3ce5a99e")
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4409,10 +4452,11 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3263cd21-7bd8-412c-bd2b-0be02cdf69c3")
+			(uuid "db1680f8-19ee-484b-a201-778c83eaa257")
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4421,38 +4465,19 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e18a2a13-1b6a-4c88-89b7-9071de37a98b")
+			(uuid "59f1e2f8-4ea7-476e-9437-d694aa58877c")
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/e97cd0dc-5930-4437-9156-129c5811cbf3")
 		(sheetname "Stammblatt")
-		(sheetfile "BBC.kicad_sch")
+		(sheetfile "GameConsole.kicad_sch")
 		(attr through_hole)
-		(fp_line
-			(start -1.33 -1.33)
-			(end 0 -1.33)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "712f0d6d-5e13-47ff-8a04-dafbbf21c76e")
-		)
-		(fp_line
-			(start -1.33 0)
-			(end -1.33 -1.33)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "5462a58f-c665-4c7a-a288-3daa277325bc")
-		)
 		(fp_line
 			(start -1.33 1.27)
 			(end -1.33 19.11)
@@ -4461,7 +4486,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "cc6daca0-3300-477a-ace2-47c57578cdb8")
+			(uuid "426f6f48-8e5c-46ee-91ea-f819629ade8d")
 		)
 		(fp_line
 			(start -1.33 1.27)
@@ -4471,7 +4496,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "7bb0a747-82da-44fc-a614-67ed490547a3")
+			(uuid "4d7a29b5-6466-439a-8746-93618105400f")
 		)
 		(fp_line
 			(start -1.33 19.11)
@@ -4481,7 +4506,27 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "61400c0a-46b6-4993-aaec-8d5bf570df71")
+			(uuid "8b7c9a41-729a-41bf-bae6-adeb79048c8d")
+		)
+		(fp_line
+			(start 0 -1.33)
+			(end 1.33 -1.33)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "dd18c421-fe6c-46f7-944b-0ac809b4f9a2")
+		)
+		(fp_line
+			(start 1.33 -1.33)
+			(end 1.33 0)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "69d2e949-b235-4c35-949e-b327d94cf002")
 		)
 		(fp_line
 			(start 1.33 1.27)
@@ -4491,87 +4536,87 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "b4b82677-9f85-478e-9f2c-48b21d0004a6")
+			(uuid "bdad967b-fe09-40c9-adc0-31587aa86d58")
 		)
 		(fp_line
 			(start -1.8 -1.8)
-			(end -1.8 19.55)
+			(end 1.75 -1.8)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "890d328a-c281-4563-bcff-78297e1ac6c4")
+			(uuid "413eff41-9c78-4dc0-9983-ec4316af2b1e")
 		)
 		(fp_line
 			(start -1.8 19.55)
-			(end 1.8 19.55)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "e2c06ab3-bf56-477d-aaea-18efb00c29e6")
-		)
-		(fp_line
-			(start 1.8 -1.8)
 			(end -1.8 -1.8)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "42be9608-7719-4eaf-9daf-06066a2d9fff")
+			(uuid "c720f45c-51f1-4730-823b-ef6c7b7d5c19")
 		)
 		(fp_line
-			(start 1.8 19.55)
-			(end 1.8 -1.8)
+			(start 1.75 -1.8)
+			(end 1.75 19.55)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "bcaf7e0f-2e62-4f7b-940c-d1b2096b8dba")
+			(uuid "f22d44d1-4cb0-427b-aaf5-0caa1e1a993e")
 		)
 		(fp_line
-			(start -1.27 -0.635)
-			(end -0.635 -1.27)
+			(start 1.75 19.55)
+			(end -1.8 19.55)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "4694aae6-b409-4ae5-ae38-7d1d5fc35e36")
+		)
+		(fp_line
+			(start -1.27 -1.27)
+			(end 0.635 -1.27)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "bb9f9e8c-cb5b-4bc5-982f-c8909947eb02")
+			(uuid "8413d419-6e83-43a1-88b0-5e54fcd5e3a3")
 		)
 		(fp_line
 			(start -1.27 19.05)
-			(end -1.27 -0.635)
+			(end -1.27 -1.27)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "3ea10487-415f-4bbc-95ca-cbdc2cbb0760")
+			(uuid "e484251b-6d9b-4c04-b7e3-e2e7eb06fd8c")
 		)
 		(fp_line
-			(start -0.635 -1.27)
-			(end 1.27 -1.27)
+			(start 0.635 -1.27)
+			(end 1.27 -0.635)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "035aa0e9-a64f-4764-8ba4-610ba5b7e70a")
+			(uuid "316ae992-8c25-41a7-bed2-0af5bb35ca37")
 		)
 		(fp_line
-			(start 1.27 -1.27)
+			(start 1.27 -0.635)
 			(end 1.27 19.05)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "2d36d45e-ea4e-4b39-9df4-1dcdba13679f")
+			(uuid "0dd58c19-fbb8-41df-955e-0e9a61f09060")
 		)
 		(fp_line
 			(start 1.27 19.05)
@@ -4581,12 +4626,12 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "a681e6a0-6f7f-4089-98c6-cbfef6593cb1")
+			(uuid "90c3ee2d-c02c-4f35-9127-3a9ae9c678fe")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 8.89 90)
 			(layer "F.Fab")
-			(uuid "3f85025c-b9ec-4447-9381-f22f27abf694")
+			(uuid "6f4ffb9d-e9ff-4483-bf5b-68925b94b80d")
 			(effects
 				(font
 					(size 1 1)
@@ -4603,7 +4648,7 @@
 			(net 1 "GND")
 			(pinfunction "Pin_1")
 			(pintype "passive")
-			(uuid "0e96862e-1b7c-41ae-ac49-d038c5cc830e")
+			(uuid "6b0cfd31-17be-4ed3-a9ce-262a0ef67ad6")
 		)
 		(pad "2" thru_hole oval
 			(at 0 2.54)
@@ -4614,7 +4659,7 @@
 			(net 1 "GND")
 			(pinfunction "Pin_2")
 			(pintype "passive")
-			(uuid "5b5492a4-3922-416a-9a98-71e94379ce96")
+			(uuid "1966c9dd-6369-4ec8-a8af-aeb65b055d3a")
 		)
 		(pad "3" thru_hole oval
 			(at 0 5.08)
@@ -4625,7 +4670,7 @@
 			(net 5 "/DC")
 			(pinfunction "Pin_3")
 			(pintype "passive")
-			(uuid "4a3c41d4-fe70-49dc-90cb-3f5cd740a5c0")
+			(uuid "3d6172f9-1b18-4ceb-816c-65db9d4ccc3a")
 		)
 		(pad "4" thru_hole oval
 			(at 0 7.62)
@@ -4636,7 +4681,7 @@
 			(net 3 "/RES")
 			(pinfunction "Pin_4")
 			(pintype "passive")
-			(uuid "1ce0f1ea-0e53-44b6-9b3d-73d3ef50b486")
+			(uuid "24c15678-092e-48c3-96cd-8f7b3409b130")
 		)
 		(pad "5" thru_hole oval
 			(at 0 10.16)
@@ -4647,7 +4692,7 @@
 			(net 7 "/SDA")
 			(pinfunction "Pin_5")
 			(pintype "passive")
-			(uuid "12ca82e6-cb0b-40b6-8b97-fb3f2332d824")
+			(uuid "68cc2491-a963-4acf-a8a6-a9ae413ab2c6")
 		)
 		(pad "6" thru_hole oval
 			(at 0 12.7)
@@ -4658,7 +4703,7 @@
 			(net 6 "/SCL")
 			(pinfunction "Pin_6")
 			(pintype "passive")
-			(uuid "914bf5f1-03ea-417a-9913-d57f773b7aeb")
+			(uuid "0f86d028-e8c8-4fcf-833c-f8f73e30ca73")
 		)
 		(pad "7" thru_hole oval
 			(at 0 15.24)
@@ -4669,7 +4714,7 @@
 			(net 4 "+5V")
 			(pinfunction "Pin_7")
 			(pintype "passive")
-			(uuid "2787f404-3591-45f2-af70-3d6de16cb7b8")
+			(uuid "4f9b2179-5e3d-4257-8018-0af92f80d719")
 		)
 		(pad "8" thru_hole oval
 			(at 0 17.78)
@@ -4680,9 +4725,9 @@
 			(net 1 "GND")
 			(pinfunction "Pin_8")
 			(pintype "passive")
-			(uuid "3e6b64cb-d6e2-4ed3-ab1b-fdbb4b7b1e50")
+			(uuid "e6fde6a6-7941-4cd0-b406-91a41d084350")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x08_P2.54mm_Vertical.wrl"
+		(model "${KICAD8_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x08_P2.54mm_Vertical.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4731,6 +4776,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4743,6 +4789,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4755,12 +4802,13 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(path "/b5aeb4c3-210e-4304-8de6-7e0a22bde48d")
 		(sheetname "Stammblatt")
-		(sheetfile "BBC.kicad_sch")
+		(sheetfile "GameConsole.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -0.25 1.5)
@@ -5087,6 +5135,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -5099,6 +5148,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -5111,12 +5161,13 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(path "/e316db99-ec43-41eb-8d22-47643d1d0730")
 		(sheetname "Stammblatt")
-		(sheetfile "BBC.kicad_sch")
+		(sheetfile "GameConsole.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -0.25 1.5)
@@ -5443,6 +5494,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -5455,6 +5507,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -5467,13 +5520,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "R_*")
 		(path "/c52d448b-d49c-4f5e-8320-35d512606b93")
 		(sheetname "Stammblatt")
-		(sheetfile "BBC.kicad_sch")
+		(sheetfile "GameConsole.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.04 0)
@@ -5717,6 +5771,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -5729,6 +5784,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -5741,6 +5797,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -5823,6 +5880,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -5835,6 +5893,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -5847,13 +5906,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "R_*")
 		(path "/5e9a24cd-01dd-4ecb-b887-ff2ad76417e8")
 		(sheetname "Stammblatt")
-		(sheetfile "BBC.kicad_sch")
+		(sheetfile "GameConsole.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.04 0)
@@ -6097,6 +6157,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -6109,6 +6170,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -6121,6 +6183,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -6205,6 +6268,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -6217,6 +6281,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -6229,6 +6294,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -6311,6 +6377,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -6323,6 +6390,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -6335,13 +6403,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property ki_fp_filters "R_*")
 		(path "/95bf754a-29da-4822-833a-35ff4e0157d2")
 		(sheetname "Stammblatt")
-		(sheetfile "BBC.kicad_sch")
+		(sheetfile "GameConsole.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.04 0)
@@ -6585,6 +6654,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -6598,6 +6668,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -6611,13 +6682,14 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
 		)
 		(path "/a4bc47c0-4bc6-4f94-9731-3b00a7cc2fc0")
 		(sheetname "Stammblatt")
-		(sheetfile "BBC.kicad_sch")
+		(sheetfile "GameConsole.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 24.35632 -52.06728)
@@ -7750,16 +7822,16 @@
 			(uuid "3efec7ce-3b14-49e9-ab92-7d30f1858619")
 		)
 	)
-	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical"
+	(footprint "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical"
 		(layer "B.Cu")
 		(uuid "5687dec7-ea27-4230-a0c8-4fcc9e9cb81c")
 		(at 83.5 84.96 180)
-		(descr "Through hole straight pin header, 1x06, 2.54mm pitch, single row")
-		(tags "Through hole pin header THT 1x06 2.54mm single row")
+		(descr "Through hole straight socket strip, 1x06, 2.54mm pitch, single row (from Kicad 4.0.7), script generated")
+		(tags "Through hole socket strip THT 1x06 2.54mm single row")
 		(property "Reference" "J2"
-			(at 0 2.33 180)
+			(at 0 2.77 0)
 			(layer "B.SilkS")
-			(uuid "ddf0f6dc-8b05-4494-81fc-6f580c75beb2")
+			(uuid "4cbc9d87-e47a-41e4-807b-26b6816ccd7e")
 			(effects
 				(font
 					(size 1 1)
@@ -7769,9 +7841,9 @@
 			)
 		)
 		(property "Value" "SD"
-			(at 0 -15.03 180)
+			(at 0 -15.47 0)
 			(layer "B.Fab")
-			(uuid "70a449fd-ed14-4987-800a-d8a34a48f8e4")
+			(uuid "1c8f71c9-bb44-4d07-9f21-ca5a3cce8102")
 			(effects
 				(font
 					(size 1 1)
@@ -7780,15 +7852,16 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical"
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "91dc08a3-4b5b-4291-99e3-bbb9299da6bb")
+			(uuid "2d2424d4-acd6-498a-8405-361885a8b6a7")
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -7798,10 +7871,11 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "93eb7124-162b-4016-9b14-d9d531c4e482")
+			(uuid "86a70b78-54bf-4d02-b974-7c7c404baa2d")
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -7811,10 +7885,11 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "bc0d817a-4551-4ed7-9f15-36c1a209a02f")
+			(uuid "15b0b502-f20b-4da0-b7ad-0a61c8e99f3c")
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -7822,8 +7897,28 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/14b7d086-1283-4282-8f89-45d038f8f5dc")
 		(sheetname "Stammblatt")
-		(sheetfile "BBC.kicad_sch")
+		(sheetfile "GameConsole.kicad_sch")
 		(attr through_hole)
+		(fp_line
+			(start 1.33 1.33)
+			(end 0 1.33)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "b45f1f8f-c4f8-43f0-add1-3d71974e1a5e")
+		)
+		(fp_line
+			(start 1.33 0)
+			(end 1.33 1.33)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "60082d0f-806e-4ace-997b-87a262d27568")
+		)
 		(fp_line
 			(start 1.33 -1.27)
 			(end -1.33 -1.27)
@@ -7832,7 +7927,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "278b02cb-d500-4832-b8d7-8f396cd88522")
+			(uuid "e17b1826-7054-4a62-ae94-b216a258e5b6")
 		)
 		(fp_line
 			(start 1.33 -14.03)
@@ -7842,7 +7937,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "84986851-cae1-4b21-8aa9-15bdecbabd2b")
+			(uuid "22e0a962-4608-450a-b6dc-ef0700ae7cfa")
 		)
 		(fp_line
 			(start 1.33 -14.03)
@@ -7852,27 +7947,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "73bbaed4-c56b-4c55-a4db-91dc8b7396f4")
-		)
-		(fp_line
-			(start 0 1.33)
-			(end -1.33 1.33)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "B.SilkS")
-			(uuid "a81ca66a-7379-4707-b2d5-5243a05c065a")
-		)
-		(fp_line
-			(start -1.33 1.33)
-			(end -1.33 0)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "B.SilkS")
-			(uuid "e8b9c212-61f8-4960-8441-fb87f4628f3c")
+			(uuid "347c0200-44c1-4b6f-b0e9-3f6bc0675ece")
 		)
 		(fp_line
 			(start -1.33 -14.03)
@@ -7882,87 +7957,87 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "63f587d9-851d-4598-b549-83b5a264527b")
+			(uuid "54771f3b-02b2-44d1-b465-0cba828683ac")
 		)
 		(fp_line
-			(start 1.8 1.8)
-			(end 1.8 -14.5)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "B.CrtYd")
-			(uuid "4755d171-6de4-4bd0-ba87-a6e863398110")
-		)
-		(fp_line
-			(start 1.8 -14.5)
-			(end -1.8 -14.5)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "B.CrtYd")
-			(uuid "16876ce4-5ffe-4ff1-a073-d1ce779c637a")
-		)
-		(fp_line
-			(start -1.8 1.8)
-			(end 1.8 1.8)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "B.CrtYd")
-			(uuid "cffbffd2-8930-4f5e-aaca-95856741ed41")
-		)
-		(fp_line
-			(start -1.8 -14.5)
+			(start 1.75 1.8)
 			(end -1.8 1.8)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "c48e92a5-9e8b-4668-b67f-98cac3590825")
+			(uuid "ca5e05be-4720-4e0d-936c-1cbf3bfd64be")
 		)
 		(fp_line
-			(start 1.27 1.27)
-			(end -0.635 1.27)
+			(start 1.75 -14.45)
+			(end 1.75 1.8)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "B.CrtYd")
+			(uuid "23e8e5cc-6480-4018-9c1b-2e68e0c2c460")
+		)
+		(fp_line
+			(start -1.8 1.8)
+			(end -1.8 -14.45)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "B.CrtYd")
+			(uuid "7c94abbd-7fbd-4151-859b-72be124eb423")
+		)
+		(fp_line
+			(start -1.8 -14.45)
+			(end 1.75 -14.45)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "B.CrtYd")
+			(uuid "5db7829a-5fe2-46a8-90d9-35e3e53ff1f9")
+		)
+		(fp_line
+			(start 1.27 0.635)
+			(end 0.635 1.27)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "252c8408-f836-49f3-9c7a-b38322d8c22a")
+			(uuid "16565a63-42a6-4b47-a3c8-4cc3570eb6c0")
 		)
 		(fp_line
 			(start 1.27 -13.97)
-			(end 1.27 1.27)
+			(end 1.27 0.635)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "2213b269-dc3e-4cfd-9d98-ec7f7c41cc3e")
+			(uuid "5747ea48-ff63-4fd6-a137-d966b644bf52")
 		)
 		(fp_line
-			(start -0.635 1.27)
-			(end -1.27 0.635)
+			(start 0.635 1.27)
+			(end -1.27 1.27)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "37b1f628-8f40-43c9-8b90-e9e1a128dd2d")
+			(uuid "63302a90-0c64-456b-85c3-0715e8ae275d")
 		)
 		(fp_line
-			(start -1.27 0.635)
+			(start -1.27 1.27)
 			(end -1.27 -13.97)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "741dcd5f-d551-4fab-b6e8-941fbccb8a9e")
+			(uuid "8af737b0-2191-4e28-8337-908853b8f3ea")
 		)
 		(fp_line
 			(start -1.27 -13.97)
@@ -7972,12 +8047,12 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "8222ae67-8ab6-4d48-9944-0ff1ecf6edaa")
+			(uuid "e51f4a6c-d392-4e68-90bd-d537129d685d")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -6.35 -90)
+			(at 0 -6.35 90)
 			(layer "B.Fab")
-			(uuid "1f0afd81-a015-4526-9c63-a0dc87da9778")
+			(uuid "1f5df569-4f2f-499a-b7fa-c2c68d81f055")
 			(effects
 				(font
 					(size 1 1)
@@ -7995,7 +8070,7 @@
 			(net 1 "GND")
 			(pinfunction "Pin_1")
 			(pintype "passive")
-			(uuid "c10b5f44-6bc4-4568-8104-044f1b12f869")
+			(uuid "45cda8fe-e178-4635-a0a9-1906f1286996")
 		)
 		(pad "2" thru_hole oval
 			(at 0 -2.54 180)
@@ -8006,7 +8081,7 @@
 			(net 4 "+5V")
 			(pinfunction "Pin_2")
 			(pintype "passive")
-			(uuid "015ccaa0-a7a0-4f00-8707-7780d6fec7e5")
+			(uuid "13586251-516e-44c4-b883-0a43dc70b3bd")
 		)
 		(pad "3" thru_hole oval
 			(at 0 -5.08 180)
@@ -8017,7 +8092,7 @@
 			(net 10 "/MISO")
 			(pinfunction "Pin_3")
 			(pintype "passive")
-			(uuid "f6080a60-7fe7-4336-b77f-297a5d6dbdcd")
+			(uuid "298fb4d8-53e2-4f71-926a-6eeb5a51cf59")
 		)
 		(pad "4" thru_hole oval
 			(at 0 -7.62 180)
@@ -8028,7 +8103,7 @@
 			(net 8 "/MOSI")
 			(pinfunction "Pin_4")
 			(pintype "passive")
-			(uuid "6775f6d8-88eb-49c1-930d-386c31a29eb8")
+			(uuid "910a9766-e149-49d7-9e7c-ce5d5ba07318")
 		)
 		(pad "5" thru_hole oval
 			(at 0 -10.16 180)
@@ -8039,7 +8114,7 @@
 			(net 9 "/SCK_SD")
 			(pinfunction "Pin_5")
 			(pintype "passive")
-			(uuid "8f3ae320-8f67-4425-8895-eb53095a66aa")
+			(uuid "f47eaae0-4eb1-446e-bb35-1cc158556c34")
 		)
 		(pad "6" thru_hole oval
 			(at 0 -12.7 180)
@@ -8050,9 +8125,9 @@
 			(net 11 "/CS")
 			(pinfunction "Pin_6")
 			(pintype "passive")
-			(uuid "582555d7-a4f5-4617-a656-6ecd15a97d93")
+			(uuid "9be54857-b932-4ecc-83a9-43d968a6e01e")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x06_P2.54mm_Vertical.wrl"
+		(model "${KICAD8_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x06_P2.54mm_Vertical.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -8064,16 +8139,16 @@
 			)
 		)
 	)
-	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical"
+	(footprint "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical"
 		(layer "B.Cu")
 		(uuid "f2b4001f-438e-4f2d-828a-4e146bc1f652")
 		(at 77.5 66.34 180)
-		(descr "Through hole straight pin header, 1x06, 2.54mm pitch, single row")
-		(tags "Through hole pin header THT 1x06 2.54mm single row")
+		(descr "Through hole straight socket strip, 1x06, 2.54mm pitch, single row (from Kicad 4.0.7), script generated")
+		(tags "Through hole socket strip THT 1x06 2.54mm single row")
 		(property "Reference" "J3"
-			(at 0 2.33 180)
+			(at 0 2.77 0)
 			(layer "B.SilkS")
-			(uuid "945c61a1-aec9-4b45-bb0d-c13e76fcee8b")
+			(uuid "ceb1b322-7d6e-4906-875e-22fc461dbf27")
 			(effects
 				(font
 					(size 1 1)
@@ -8083,9 +8158,9 @@
 			)
 		)
 		(property "Value" "PCM5100"
-			(at 0 -15.03 180)
+			(at 0 -15.47 0)
 			(layer "B.Fab")
-			(uuid "fc9885f9-4e7d-4006-9f8a-eef69b409539")
+			(uuid "b2afc336-8104-494c-972d-8e5dfe120ec9")
 			(effects
 				(font
 					(size 1 1)
@@ -8094,15 +8169,16 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical"
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "39c41f8e-2a66-4352-b8d2-d01c60b09c24")
+			(uuid "93da09bc-9ca2-4d62-b24f-a1bcee884204")
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -8112,10 +8188,11 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "cad18031-ce4a-465d-b554-f4b1fe239abd")
+			(uuid "66359852-ae8e-4583-8ca5-e6dcc2f5fd43")
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -8125,10 +8202,11 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "4947e224-c91f-4e8f-8db1-d06e97597bc4")
+			(uuid "cf43db52-39e4-422d-93b4-6addebc2df19")
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -8136,8 +8214,28 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/44e49e7d-8bed-4524-93f4-7a0398cda5af")
 		(sheetname "Stammblatt")
-		(sheetfile "BBC.kicad_sch")
+		(sheetfile "GameConsole.kicad_sch")
 		(attr through_hole)
+		(fp_line
+			(start 1.33 1.33)
+			(end 0 1.33)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "4cf2e228-85a7-4d63-979f-de70d499e6f1")
+		)
+		(fp_line
+			(start 1.33 0)
+			(end 1.33 1.33)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "11e14dc0-9e55-4e4a-bf0f-da29bd2ff5fd")
+		)
 		(fp_line
 			(start 1.33 -1.27)
 			(end -1.33 -1.27)
@@ -8146,7 +8244,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "6dd0d57a-da9d-4fa2-b620-5c404ad8000b")
+			(uuid "1ea3196a-c6c1-472e-82f4-7d4f818a0c40")
 		)
 		(fp_line
 			(start 1.33 -14.03)
@@ -8156,7 +8254,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "9150f0fa-d944-4a8e-8a77-51f4d9c669da")
+			(uuid "d04bcaad-45db-4d38-9a55-3e3bb9463f3c")
 		)
 		(fp_line
 			(start 1.33 -14.03)
@@ -8166,27 +8264,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "cc7fb218-fa94-4531-871a-903b9dcaf7e0")
-		)
-		(fp_line
-			(start 0 1.33)
-			(end -1.33 1.33)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "B.SilkS")
-			(uuid "260a1d67-a006-40c6-a5a9-3b618e53b0e0")
-		)
-		(fp_line
-			(start -1.33 1.33)
-			(end -1.33 0)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "B.SilkS")
-			(uuid "c26197db-1544-4045-b3c4-413bec3d8644")
+			(uuid "50ac5ae6-70cc-4a9e-b074-333ddcfbe043")
 		)
 		(fp_line
 			(start -1.33 -14.03)
@@ -8196,87 +8274,87 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "23be5faf-e86c-43bd-b134-62f16a66f1d5")
+			(uuid "49da38a3-d2cc-4570-97f8-1d6c295cc56d")
 		)
 		(fp_line
-			(start 1.8 1.8)
-			(end 1.8 -14.5)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "B.CrtYd")
-			(uuid "a605869a-f1ae-4c17-ab2e-01730a19b12c")
-		)
-		(fp_line
-			(start 1.8 -14.5)
-			(end -1.8 -14.5)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "B.CrtYd")
-			(uuid "246879f4-2f4b-43b9-808b-d8caa29a0fbb")
-		)
-		(fp_line
-			(start -1.8 1.8)
-			(end 1.8 1.8)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "B.CrtYd")
-			(uuid "334c13a4-3e8a-42f1-970d-9fa8ef4db2b1")
-		)
-		(fp_line
-			(start -1.8 -14.5)
+			(start 1.75 1.8)
 			(end -1.8 1.8)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "17386e90-63e9-437c-ba6f-8c757631d6ac")
+			(uuid "5781172f-bc4b-44e9-9cdc-8a888f12a5cb")
 		)
 		(fp_line
-			(start 1.27 1.27)
-			(end -0.635 1.27)
+			(start 1.75 -14.45)
+			(end 1.75 1.8)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "B.CrtYd")
+			(uuid "86ace771-c0b5-4d46-837c-decc316c9474")
+		)
+		(fp_line
+			(start -1.8 1.8)
+			(end -1.8 -14.45)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "B.CrtYd")
+			(uuid "e519e11e-b741-4214-92ba-de2f00c56046")
+		)
+		(fp_line
+			(start -1.8 -14.45)
+			(end 1.75 -14.45)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "B.CrtYd")
+			(uuid "d70520ab-d5ab-4729-812d-b7ba83ef2300")
+		)
+		(fp_line
+			(start 1.27 0.635)
+			(end 0.635 1.27)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "ce0bad8e-8129-4082-9a7d-070a1875a464")
+			(uuid "9bdcb612-95f0-421a-be4d-259be46d83c2")
 		)
 		(fp_line
 			(start 1.27 -13.97)
-			(end 1.27 1.27)
+			(end 1.27 0.635)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "ab00974e-9674-4fed-bc1d-ff0079502006")
+			(uuid "53390428-a049-4dcf-b3a5-c85120f8ebde")
 		)
 		(fp_line
-			(start -0.635 1.27)
-			(end -1.27 0.635)
+			(start 0.635 1.27)
+			(end -1.27 1.27)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "53e4cdb1-16b2-4a23-adf0-f5082f189ac9")
+			(uuid "b09d72f6-7e7a-4b65-b02b-f344ed130368")
 		)
 		(fp_line
-			(start -1.27 0.635)
+			(start -1.27 1.27)
 			(end -1.27 -13.97)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "9310119b-075c-4851-8be4-752ec3b6b8ef")
+			(uuid "af767c15-d114-4ac7-bcdb-224c6fc93164")
 		)
 		(fp_line
 			(start -1.27 -13.97)
@@ -8286,12 +8364,12 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "a793e0f4-1937-40f7-bcda-17b91366192d")
+			(uuid "afde5e1c-2ab0-4d78-bab2-848a1da88681")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -6.35 -90)
+			(at 0 -6.35 90)
 			(layer "B.Fab")
-			(uuid "1f82a18e-7041-4ecd-9284-3e45c56f4f88")
+			(uuid "60cf31f4-45e5-4d0a-8572-e52f4e2227de")
 			(effects
 				(font
 					(size 1 1)
@@ -8309,7 +8387,7 @@
 			(net 1 "GND")
 			(pinfunction "Pin_1")
 			(pintype "passive")
-			(uuid "118f62d8-d719-4fb0-81ef-5074316a61e3")
+			(uuid "6768864c-e1c0-4553-a142-902e1db5ed64")
 		)
 		(pad "2" thru_hole oval
 			(at 0 -2.54 180)
@@ -8320,7 +8398,7 @@
 			(net 14 "/BCK")
 			(pinfunction "Pin_2")
 			(pintype "passive")
-			(uuid "574e4f82-e115-4751-b53c-9f10d5a78df3")
+			(uuid "511465a2-d0f2-4dd2-8385-882c9c17a678")
 		)
 		(pad "3" thru_hole oval
 			(at 0 -5.08 180)
@@ -8331,7 +8409,7 @@
 			(net 13 "/DIN")
 			(pinfunction "Pin_3")
 			(pintype "passive")
-			(uuid "582c5d8b-f7c9-4278-93fc-46e8c83c6025")
+			(uuid "0958ac70-1902-4766-bafa-79cd00a8ebf5")
 		)
 		(pad "4" thru_hole oval
 			(at 0 -7.62 180)
@@ -8342,7 +8420,7 @@
 			(net 12 "/LCK")
 			(pinfunction "Pin_4")
 			(pintype "passive")
-			(uuid "a294bb2f-8571-4c2f-b706-1af657856f05")
+			(uuid "83152484-1345-4168-b29a-9e00468a296f")
 		)
 		(pad "5" thru_hole oval
 			(at 0 -10.16 180)
@@ -8353,7 +8431,7 @@
 			(net 1 "GND")
 			(pinfunction "Pin_5")
 			(pintype "passive")
-			(uuid "f3984385-b1c4-4fcd-9992-0835e23985bc")
+			(uuid "91fb687d-5226-4017-b577-2873e6b7faac")
 		)
 		(pad "6" thru_hole oval
 			(at 0 -12.7 180)
@@ -8364,9 +8442,9 @@
 			(net 4 "+5V")
 			(pinfunction "Pin_6")
 			(pintype "passive")
-			(uuid "db03df7f-0578-4d27-87c9-880d75b6b4d1")
+			(uuid "00dc4217-0b84-41bd-a135-1bbb9ae051b0")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x06_P2.54mm_Vertical.wrl"
+		(model "${KICAD8_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x06_P2.54mm_Vertical.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
